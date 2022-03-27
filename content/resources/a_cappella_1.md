@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a0770509-26c7-f149-64cd-95d8c8815bac
 resourcetype: Document
 title: Imagination and Creativity in Modern Collegiate A Cappella Arranging, Performing,
   and Recording

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a0770509-26c7-f149-64cd-95d8c8815bac
 resourcetype: Document
 title: Creativity and Machine Design
 uid: f979f452-31b4-7fb9-f16e-55198e24358a
