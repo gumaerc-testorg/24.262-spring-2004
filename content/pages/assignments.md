@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides examples of student work for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,8 +13,8 @@ One long paper will be due at the end of the course. This paper will be at leas
 Sample Student Papers
 ---------------------
 
-Tyler Johnson, "Imagination and Creativity in Modern Collegiate A Cappella Arranging, Performing, and Recording." ([PDF]({{< baseurl >}}/resources/a_cappella_1)) (Courtesy of Tyler Johnson. Used with permission.)
+Tyler Johnson, "Imagination and Creativity in Modern Collegiate A Cappella Arranging, Performing, and Recording." ({{% resource_link f6ad15fa-3f9a-8d44-ef15-41de7e0a4c19 "PDF" %}}) (Courtesy of Tyler Johnson. Used with permission.)
 
-Nick Martinez, "Creativity and Machine Design." ([PDF]({{< baseurl >}}/resources/creativity_mach))
+Nick Martinez, "Creativity and Machine Design." ({{% resource_link f979f452-31b4-7fb9-f16e-55198e24358a "PDF" %}})
 
-Ryan Roberts, paper on human and computer creativity. ([PDF]({{< baseurl >}}/resources/24262wed_1145pm1)) (Courtesy of Ryan Roberts. Used with permission.)
+Ryan Roberts, paper on human and computer creativity. ({{% resource_link 9e5c5375-6f41-5bd5-4a68-024c909b2afb "PDF" %}}) (Courtesy of Ryan Roberts. Used with permission.)
