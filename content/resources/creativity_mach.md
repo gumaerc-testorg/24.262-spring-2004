@@ -5,6 +5,7 @@ file: /courses/24-262-feeling-and-imagination-in-art-science-and-technology-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Creativity and Machine Design
 uid: f979f452-31b4-7fb9-f16e-55198e24358a
 ---
 Sample student paper courtesy of Nick Martinez. Used with permission.
-

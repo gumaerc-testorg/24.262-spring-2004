@@ -5,6 +5,7 @@ file: /courses/24-262-feeling-and-imagination-in-art-science-and-technology-spri
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Imagination and Creativity in Modern Collegiate A Cappella Arranging, Per
 uid: f6ad15fa-3f9a-8d44-ef15-41de7e0a4c19
 ---
 Sample student paper courtesy of Tyler Johnson. Used with permission.
-
