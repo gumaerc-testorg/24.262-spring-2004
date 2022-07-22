@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and required readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 0a931863-ac49-b685-d020-524957d0c9d7
 ---
