@@ -36,7 +36,7 @@ Tomas, Vincent, ed. _Creativity in the Arts_. Englewood Cliffs, NJ: Prentice-H
 
 Damasio, Antonio R. _Looking for Spinoza: Joy, Sorrow, and the Feeling Brain_. 1st ed. Orlando, Fla.: Harcourt, 2003. ISBN: 0151005575.
 
-Minsky, Marvin. _The Emotion Machine_. [Download](http://web.media.mit.edu/~minsky/) a version of this work from the MIT Media Lab.
+Minsky, Marvin. _The Emotion Machine_. {{% resource_link "d21e3738-882b-4fb4-a729-2c0c74a05aa0" "Download" %}} a version of this work from the MIT Media Lab.
 
 Picard, Rosalind W. _Affective Computing_. Cambridge, Mass.: MIT Press, 1997. ISBN: 0262661152.
 
