@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student paper courtesy of Nick Martinez. Used with permission.
-file: /courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/f979f45231b47fb9f16e55198e24358a_creativity_mach.pdf
+file: /ol-ocw-studio-app/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/f979f45231b47fb9f16e55198e24358a_creativity_mach.pdf
 file_size: 124545
 file_type: application/pdf
 learning_resource_types:
